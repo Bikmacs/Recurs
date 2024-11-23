@@ -1,0 +1,4 @@
+﻿  Recur.cpp
+C:\SystemProgramm\Recur\Recur\Recur.cpp(70,20): error C2131: выражение не определяется константой
+C:\SystemProgramm\Recur\Recur\Recur.cpp(96,18): error C2131: выражение не определяется константой
+C:\SystemProgramm\Recur\Recur\Recur.cpp(100,24): error C3863: тип массива "Person [count]" является неназначаемым
